@@ -1,0 +1,152 @@
+//panel
+	
+#panel{
+	background : url(http://i.imgur.com/DH4aerd.png);
+}
+#buttons, #b_quests, #b_clans, #b_pvp, #b_config, #b_help, #b_map, #b_skills, #b_friends, #b_addons, #b_recipes,#b_matchmaking, #helpbut, #logoutbut, #bchat{
+	background : url(https://i.imgur.com/OmuV4Ac.png);
+}
+#stats{
+	background : url(http://i.imgur.com/cgjNLcG.png);
+}
+#life2{
+	background : url(http://i.imgur.com/dVMEn6w.png);
+	top : 45.4px;
+	left : 533px;
+	position : absolute;
+}
+#exp2{
+	background : url(http://i.imgur.com/J53Lsrc.png);
+	top : 57.3px;
+	left : 533px;
+	position : absolute;
+}
+#skillSwitch{
+	background : url(https://i.imgur.com/Tn4sUOa.png);
+}
+#premiumbut{
+	background : url(http://i.imgur.com/j9GwZYc.png);
+}
+#addonspanel{
+	background : url(http://i.imgur.com/gRRC2qC.png);
+}
+#friends{
+	background : url(http://i.imgur.com/MPEDjiW.png);
+}
+#mappanel{
+	background : url(http://i.imgur.com/beq6w0T.png);
+}
+#clanmenu{
+	background : url(http://i.imgur.com/15xGjHI.png);
+}
+
+//walka
+
+#battle .border-b, #battlepanelback, #battlehelp, #battleclose, #battlepanel.big, #battlehelp:hover, #border-b{
+	background : url(http://i.imgur.com/FQjFP6H.png);
+}
+#loots{
+	background : url(http://i.imgur.com/X8OODnz.png);
+}	
+#loots_l, #loots_r, #loots .loot, #loots B.yes, #loots B.no, #loots_counter, #loots_button, #loots B.need{
+	background : url(http://i.imgur.com/99q06MY.png);
+}
+
+//config
+
+#config{
+	background : url(https://i.imgur.com/9z7vdnm.png);
+	height : 438px;
+}
+.conf-title{
+	background : url(http://i.imgur.com/43fZjJg.png);
+}
+.save{
+	background : url(https://i.imgur.com/hMezJrR.png);
+}
+.cancel{
+	background : url(https://i.imgur.com/ejzth6S.png);
+}
+#cfg_options DIV, .my-checkbox, .my-checkbox.active{
+	background : url(https://i.imgur.com/ElmG0gh.png);
+	background-repeat : no-repeat;
+}
+
+//chat
+
+#chat.left, #chattabs.left, #chat.left #chattabs s{
+	background : url(http://i.imgur.com/PwNO47G.png);
+}
+#inpchat{
+	background : url(http://i.imgur.com/epiv0SO.png);
+}
+#bottombar{
+	background : url(http://i.imgur.com/UER6xH4.png);
+}
+#pvpmode{
+	background : url(http://i.imgur.com/Bu5cXiC.png);
+	top : 519.9px; 
+	left : 10px; 
+	position : absolute;
+}
+#bchat{
+	top : 519.5px; 
+	left : 30px; 
+	position : absolute;
+}
+
+//depo
+
+#depo, #depo-title{
+	background : url(https://i.imgur.com/wt8sLAU.png);
+}
+#depo BUTTON{
+	background : url(https://i.imgur.com/qwkQkR6.png);
+}
+
+//questy
+.w2{
+	background : url(https://i.imgur.com/hV2bNtP.png);
+	background-repeat : no-repeat;
+}
+div#dlgwin.ui-draggable{
+	background : url(https://i.imgur.com/kbvQWgB.png);
+}
+
+
+#b_addons{
+	top : 230px;
+	left : 241;
+	position : absolutepx;
+}
+#b_matchmaking{
+	top : 307px;
+	left : 14px;
+	position : absolute;
+} 
+img.lt-hor, img.lt-ver, img.ld-hor, img.ld-ver, img.rt-hor,img.rt-ver, img.rd-hor, img.rd-ver, #leorn1, #leorn2{
+	display : none;
+}
+#shop{
+	background : url(http://i.imgur.com/g07yQHk.png);
+}
+#corners img.border-u{
+	background : url(http://i.imgur.com/ZxiWMU9.png);
+}
+#corners img.border-d{
+	background : url(http://i.imgur.com/xcZ8szC.png);
+}
+#corners img.border-r{
+	background : url(http://i.imgur.com/xcZ8szC.png);
+}
+#corners img.border-l{
+	background : url(http://i.imgur.com/h23q5R0.png);
+}
+
+
+
+
+
+
+
+
