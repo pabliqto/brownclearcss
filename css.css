@@ -1,4 +1,4 @@
-//panel
+/*panel*/
 	
 #panel{
 	background : url(http://i.imgur.com/DH4aerd.png);
@@ -40,7 +40,7 @@
 	background : url(http://i.imgur.com/15xGjHI.png);
 }
 
-//walka
+/*walka*/
 
 #battle .border-b, #battlepanelback, #battlehelp, #battleclose, #battlepanel.big, #battlehelp:hover, #border-b{
 	background : url(http://i.imgur.com/FQjFP6H.png);
@@ -52,7 +52,7 @@
 	background : url(http://i.imgur.com/99q06MY.png);
 }
 
-//config
+/*config*/
 
 #config{
 	background : url(https://i.imgur.com/9z7vdnm.png);
@@ -71,8 +71,7 @@
 	background : url(https://i.imgur.com/ElmG0gh.png);
 	background-repeat : no-repeat;
 }
-
-//chat
+/*chat*/
 
 #chat.left, #chattabs.left, #chat.left #chattabs s{
 	background : url(http://i.imgur.com/PwNO47G.png);
@@ -95,7 +94,7 @@
 	position : absolute;
 }
 
-//depo
+/*depo*/
 
 #depo, #depo-title{
 	background : url(https://i.imgur.com/wt8sLAU.png);
@@ -104,7 +103,7 @@
 	background : url(https://i.imgur.com/qwkQkR6.png);
 }
 
-//questy
+/*questy*/
 .w2{
 	background : url(https://i.imgur.com/hV2bNtP.png);
 	background-repeat : no-repeat;
@@ -142,11 +141,3 @@ img.lt-hor, img.lt-ver, img.ld-hor, img.ld-ver, img.rt-hor,img.rt-ver, img.rd-ho
 #corners img.border-l{
 	background : url(http://i.imgur.com/h23q5R0.png);
 }
-
-
-
-
-
-
-
-
